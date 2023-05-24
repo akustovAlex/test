@@ -1,0 +1,20 @@
+{
+  "name": "space_wolfs",
+  "version": "0.0.1",
+  "description": "Сайт справочник легиона: Космические волки",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "space",
+    "wolfs"
+  ],
+  "author": "akuStoV",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}

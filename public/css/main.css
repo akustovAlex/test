@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;    
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a {
+    color: inherit;
+}
+
+.logo {
+    text-decoration: none;
+}
